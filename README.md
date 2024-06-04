@@ -1,4 +1,4 @@
-# Deep-Learning---Keras-and-TensorFlow-
+# Deep-Learning---Keras-and-TensorFlow
 This repository dives into the world of Deep Learning, utilizing the powerful libraries Keras and TensorFlow.
 
 What you'll find:
