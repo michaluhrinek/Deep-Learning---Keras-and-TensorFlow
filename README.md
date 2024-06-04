@@ -1,11 +1,11 @@
 # Deep-Learning---Keras-and-TensorFlow-
-This repository delves into the world of Deep Learning, utilizing the powerful libraries Keras and TensorFlow.
+This repository dives into the world of Deep Learning, utilizing the powerful libraries Keras and TensorFlow.
 
 What you'll find:
 
     Code Examples: Explore practical implementations of Deep Learning concepts through well-structured code.
     Keras and TensorFlow Integration: Witness how Keras simplifies the development process on top of TensorFlow's computational backend.
-    Clear Explanations: Gain a deeper understanding of Deep Learning techniques with accompanying explanations. (Consider linking to a README file within the repository if you have more detailed explanations there)
+    Clear Explanations: Gain a deeper understanding of Deep Learning techniques with accompanying explanations. 
 
 Potential Applications:
 
